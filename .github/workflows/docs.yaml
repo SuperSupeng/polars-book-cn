@@ -3,7 +3,7 @@ name: Polars Guides
 on:
   push:
     branches:
-      - master
+      - main
 
 jobs:
   test:
